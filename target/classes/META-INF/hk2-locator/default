@@ -1,0 +1,16 @@
+#
+# Generated on Mon Sep 15 21:45:14 CEST 2014 by hk2-inhabitant-generator
+#
+
+[org.glassfish.javaone.deployinfo.DeployInfoMailPostCommand]
+contract={org.glassfish.api.admin.AdminCommand}
+name=_deployinfomail-post-cmd
+qualifier={org.glassfish.api.admin.Supplemental}
+metadata=target={deploy}
+
+[org.glassfish.javaone.deployinfo.DeployInfoMailPreCommand]
+contract={org.glassfish.api.admin.AdminCommand}
+name=_deployinfomail-pre-cmd
+qualifier={org.glassfish.api.admin.Supplemental}
+metadata=target={deploy}
+
